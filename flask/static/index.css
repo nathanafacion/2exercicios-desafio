@@ -1,0 +1,58 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+body{
+  background-color:#d6d6d6;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+  text-align: center;
+  
+}
+
+#divSearch{
+  display: block;
+  margin-top:5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding:30px;
+  background-color:#f3f1f1;
+  border-radius:2px;
+  box-shadow: 0 0 1em #266489ff;
+}
+
+#txtSearch{
+  background-color:transparent;
+  padding-left:5px;
+  font-size:18px;
+  border:solid 2px #266489ff;
+  height:32px;
+  width:200px;
+}
+
+#buttonSubmit{
+  border:none;
+  height:45px;
+  border-radius:5px;
+  width:90px;
+  font-weight:bold;
+  background:#266489ff;
+  color:white;
+}
+
+img {
+  display: block;
+  margin-top:5%;
+  margin-bottom:5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding:30px;
+
+}

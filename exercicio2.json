@@ -1,0 +1,122 @@
+[
+  {
+    "METAR": [
+      "201500Z 11006KT 4500 -RA BR BKN014 OVC022 22/19 Q1015="
+    ], 
+    "TAF": [
+      "200920Z 2012/2024 11005KT 8000 BKN010 TX24/2015Z TN18/2023Z BECMG 2014/2016 10007KT BKN015 TEMPO 2016/2019 RA RMK PGM="
+    ], 
+    "cartas": [
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=b50dda1f-0948-4156-8b3933dc73b591f6&apikey=1587263166", 
+        "name": "ADC SBBH"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=894ab11f-f5b9-4854-a01b4cc1b90b467d&apikey=1587263166", 
+        "name": "AD 2 SBBH A"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=9819447c-4f29-494e-ba2ce902767d7e5a&apikey=1587263166", 
+        "name": "LOC RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=7d450b5e-efbe-45ea-a5f6db25244cfd5a&apikey=1587263166", 
+        "name": "RNP A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=6f11f28c-2b9f-4c87-9a5dd7d3082ac219&apikey=1587263166", 
+        "name": "EVPAD 1A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=0b65f9df-68b6-4b33-a5e0a6ffc6c33181&apikey=1587263166", 
+        "name": "RNAV EGUSO 1A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=819781f2-b40d-4278-b65bdad3112c6aa3&apikey=1587263166", 
+        "name": "RNAV GEDAR 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=5c109420-d34e-4b90-860c5e95ecd69e12&apikey=1587263166", 
+        "name": "RNAV GEDAR 1B RWY13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=92644a0d-a39f-4c49-b57e107b41f4bca5&apikey=1587263166", 
+        "name": "RNAV GEPNA 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=6df28bc3-3301-4303-b5561eedc41401b8&apikey=1587263166", 
+        "name": "RNAV ILROT 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=6867e403-2aff-40e8-9a092773385556d5&apikey=1587263166", 
+        "name": "RNAV IVSAM 1A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=a296dc09-8b19-48c4-adde4126adea011e&apikey=1587263166", 
+        "name": "RNAV KUBEX 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=03f76cc5-4734-4151-a7c15647f2483022&apikey=1587263166", 
+        "name": "RNAV TIPLI 1A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=512cc951-b1e5-4746-81616e2f1c4823eb&apikey=1587263166", 
+        "name": "RNAV UBKIS 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=b56b9f24-c57c-4c63-a30a932cbf179585&apikey=1587263166", 
+        "name": "SUKDA 1A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=f44d8b7a-04e6-4df0-9e92e1bee88e5173&apikey=1587263166", 
+        "name": "RNAV ASKAP 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=d07377ae-d840-43c6-b719f9142ceaeb2c&apikey=1587263166", 
+        "name": "RNAV ESKIP 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=88424853-809f-46b1-8b32de392ace80dd&apikey=1587263166", 
+        "name": "RNAV ESKIP 1A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=e2d2cbf1-f1d1-4919-aa8475be4ce9cf3f&apikey=1587263166", 
+        "name": "RNAV ESKIP 2B RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=d297c99a-2648-420d-979304a2515fee37&apikey=1587263166", 
+        "name": "RNAV ILSIP 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=61d12070-294c-4fda-a94031e8d8e125a3&apikey=1587263166", 
+        "name": "RNAV ILSIP 1A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=a18dabee-e47f-4d82-a62ad6e9354c0560&apikey=1587263166", 
+        "name": "RNAV OBLEB 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=ccafe1de-dfa7-44eb-ac790bb83cd804ba&apikey=1587263166", 
+        "name": "RNAV OBLEB 1A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=ce92fe14-9628-45a2-846acf58c14ab148&apikey=1587263166", 
+        "name": "RNAV UGSIT 1A RWY 13"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=b7e49b5b-0219-43e2-9a7c21d15c94fe73&apikey=1587263166", 
+        "name": "RNAV UGSIT 1A RWY 31"
+      }, 
+      {
+        "link": "https://aisweb.decea.gov.br/download/?arquivo=0cc7cc8d-0898-475e-97281ab3061e51a1&apikey=1587263166", 
+        "name": "RWY 13/31"
+      }
+    ], 
+    "sundown": [
+      "21:15"
+    ], 
+    "sunrise": [
+      "08:07"
+    ]
+  }
+]
